@@ -9,8 +9,8 @@
 # print(b)
 # print(c)
 
-# ab = "Ankit"
-# abc = 24
+ab = "Ankit"
+abc = 24
 
 # print(ab + "is most wanted " + abc + " Person")
 # print(ab , "is most wanted " , abc , " Person")
